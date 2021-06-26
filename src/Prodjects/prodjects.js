@@ -38,8 +38,8 @@ const Proj = () => {
       alt: "portfolio",
       text: "My pet-project Portfolio",
       id:4,
-      href1:"https://pipkey.github.io/soushal/#/",
-      href2:"https://pipkey.github.io/soushal/#/"
+      href1:"https://pipkey.github.io/__pip__/",
+      href2:"https://github.com/pipkey/__pip__"
     },
     {
       src: XO,
