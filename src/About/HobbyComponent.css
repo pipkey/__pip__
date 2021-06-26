@@ -1,0 +1,27 @@
+.hobby__item {
+    margin: 30px 10px 0 30px;
+    width: 100px;
+    height: 120px;
+    /* border-radius: 10px;
+    border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 500;
+  }
+  .hobby__item img {
+
+    width: 50px;
+    height: 50px;
+  }
+
+  .hobby__item:hover{
+  transition: .15s;
+    font-weight: 300;
+  }
+
+  .hobby__item:not(:hover){
+    transition: .1s;
+    font-weight: 500;
+  }

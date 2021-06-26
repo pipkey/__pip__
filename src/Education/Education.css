@@ -1,0 +1,25 @@
+.education{
+    width:100%;
+    min-height: 100vh;
+}
+.block__place{
+    display: flex;
+    flex-direction: column;
+}
+.title__e{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 0 30px;
+    font-size: 70px;
+    font-weight: 300;
+    text-shadow: 10px 3px 4px rgb(179, 178, 178);
+}
+.title__e:hover{
+    transition: 1s;
+    text-shadow: -10px 3px 4px rgb(179, 178, 178);
+}
+.title__e:not(:hover){
+    transition: 1s;
+    text-shadow: 10px 3px 4px rgb(179, 178, 178);
+}

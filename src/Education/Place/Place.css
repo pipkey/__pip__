@@ -1,0 +1,38 @@
+.wrap{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.present {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.name__place {
+    margin: 15px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.educatiom__item {
+    padding: 25px;
+    font-size: 20px;
+    font-weight: 300;
+    width: 900px;
+    height: 200px;
+    line-height: 35px;
+}
+.educatiom__item p:hover{
+    transition: 0.2s;
+    letter-spacing: .237em;
+}
+.educatiom__item p:not(:hover){
+    transition: 1s;
+    letter-spacing: 0;
+}
+
+.about__place{
+    font-size:15px ;
+}

@@ -1,0 +1,70 @@
+.about {
+  margin: 0;
+  /* background: linear-gradient(180deg, rgb(206, 98, 211), rgb(105, 127, 244)); */
+  min-height: 100vh;
+}
+
+.about__title {
+  margin: 0 30px;
+width: 450px;
+padding: 20px;
+  font-size: 60px;
+  font-weight: 300;
+  /* box-shadow: -6px 3px 6px rgb(191, 192, 194); */
+  text-shadow: -6px 3px 3px rgb(191, 192, 194) ;
+}
+.about__title:hover{
+ transition: 1.5s;
+  text-shadow: 6px -3px 3px rgb(145, 145, 146);
+}
+.about__title:not(:hover){
+ transition: 1.5s;
+}
+.about__text {
+  margin-left: 100px;
+  padding: 25px;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: 300;
+  width: 900px;
+  height: 200px;
+  line-height: 35px;
+}
+.about__text p {
+  margin: 0 auto;
+  /* border: 1px solid black; */
+
+}
+.about__text p:hover{
+  transition: 0.2s;
+  letter-spacing: .237em;
+}
+.about__text p:not(:hover){
+  transition: 1s;
+  letter-spacing: 0;
+}
+
+.hobby__title {
+  margin: 0 30px;
+  font-size: 50px;
+  font-weight: 300;
+  text-shadow: 6px 2px 5px rgb(158, 158, 158);
+  display: flex;
+  justify-content: flex-end;
+}
+
+.hobby__title:hover{
+transition: 1s;
+text-shadow: -6px 2px 5px rgb(158, 158, 158);
+}
+.hobby__title:not(:hover){
+  transition: 1s;
+  text-shadow: 6px 2px 5px rgb(158, 158, 158);
+}
+
+.hobby__list {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+

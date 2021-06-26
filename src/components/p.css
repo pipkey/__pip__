@@ -1,0 +1,33 @@
+.proj {
+    margin: 10px;
+    /* border: 1px solid black; */
+}
+.projI {
+    margin-left: 50%;
+    /* border: 1px solid black; */
+}
+.p__flex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.image {
+    width: 100px;
+    height: 100px;
+    /* border: 1px solid black; */
+}
+.btn__block{
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.proj span {
+}
