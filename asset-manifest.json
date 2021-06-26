@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/__pip__/static/css/main.be7d9505.chunk.css",
+    "main.js": "/__pip__/static/js/main.d81e1339.chunk.js",
+    "main.js.map": "/__pip__/static/js/main.d81e1339.chunk.js.map",
+    "runtime-main.js": "/__pip__/static/js/runtime-main.513d3b78.js",
+    "runtime-main.js.map": "/__pip__/static/js/runtime-main.513d3b78.js.map",
+    "static/js/2.696b8f8a.chunk.js": "/__pip__/static/js/2.696b8f8a.chunk.js",
+    "static/js/2.696b8f8a.chunk.js.map": "/__pip__/static/js/2.696b8f8a.chunk.js.map",
+    "static/js/3.916b2df7.chunk.js": "/__pip__/static/js/3.916b2df7.chunk.js",
+    "static/js/3.916b2df7.chunk.js.map": "/__pip__/static/js/3.916b2df7.chunk.js.map",
+    "index.html": "/__pip__/index.html",
+    "static/css/main.be7d9505.chunk.css.map": "/__pip__/static/css/main.be7d9505.chunk.css.map",
+    "static/js/2.696b8f8a.chunk.js.LICENSE.txt": "/__pip__/static/js/2.696b8f8a.chunk.js.LICENSE.txt",
+    "static/media/Kamenkov_Philip.2cd32c44.pdf": "/__pip__/static/media/Kamenkov_Philip.2cd32c44.pdf",
+    "static/media/vXJ8pceZqtE.7157eb8d.jpg": "/__pip__/static/media/vXJ8pceZqtE.7157eb8d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.513d3b78.js",
+    "static/js/2.696b8f8a.chunk.js",
+    "static/css/main.be7d9505.chunk.css",
+    "static/js/main.d81e1339.chunk.js"
+  ]
+}
