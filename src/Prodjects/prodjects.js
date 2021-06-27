@@ -46,8 +46,8 @@ const Proj = () => {
       alt: "tic-tac-toe",
       text: "My pet-game TIC-TAC-TOE ",
       id:5,
-      href1:"https://pipkey.github.io/soushal/#/",
-      href2:"https://github.com/pipkey/soushal"
+      href1:"https://pipkey.github.io/tic_tac_toe/",
+      href2:"https://github.com/pipkey/tic_tac_toe"
     },
   ];
 
